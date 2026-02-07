@@ -1,7 +1,7 @@
 import React from 'react'
 import './Services.css'
 import theme_pattern from '../../assets/theme_pattern.png'
-import Services_Data from '../../assets/Services_Data'
+import Services_Data from '../../assets/Services_data'
 // import arrow_icon from '../../assets/arrow_icon.png'
 import {ArrowRight} from 'lucide-react';
 
