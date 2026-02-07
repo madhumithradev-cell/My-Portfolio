@@ -1,5 +1,5 @@
 import React from 'react'
-import './Myproject.css'
+import './MyProject.css'
 import theme_pattern from '../../assets/theme_pattern.png'
 import myproject_data from '../../assets/myproject_data'
 // import arrow_icon from '../../assets/arrow_icon.png'
